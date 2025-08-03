@@ -3,7 +3,9 @@ for running a club meeting for swirl cuz im organising one for my schools infoco
 unique features:
 - 404 page
 - link to my gmail
-- have footer 
+- have footer
+- link to repo
+- pixel art uses table 
 
 requirements:
 - have title and favicon ✅
