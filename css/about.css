@@ -1,0 +1,45 @@
+.center_div{
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+.w_full{
+    width: 100%;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+.h400 {
+    height: 400px;
+}
+
+.align_center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lucida_font {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.text_red {
+    color: red;
+}
+
+.text_box {
+    border: 1px solid black;
+    width: fit-content;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.inline {
+    display: inline-block;
+}
