@@ -17,6 +17,11 @@ body {
     height: 400px;
 }
 
+.caprasimo-regular {
+    font-family: "Caprasimo", serif;
+    font-style: normal;
+}
+
 .align_center{
     display: block;
     margin-left: auto;
