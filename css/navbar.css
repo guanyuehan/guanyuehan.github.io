@@ -1,11 +1,12 @@
 .topnav {
-    background-color: #0022ff;
+    background-color: #dbf112;
     overflow: hidden;
     border-radius: 5%;
     position: sticky;
     margin-top: 0;
     margin-left: 0;
     margin-right: 0;
+    height: fit-content;
 }
 
 .topnav a {
@@ -14,7 +15,7 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 4rem;
 }
 
 .topnav a:hover {
